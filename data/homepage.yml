@@ -1,0 +1,212 @@
+head:
+  title: "Navya Bhat's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Navya Bhat."
+  subtitle: "Data Scientist"
+  description: ""
+  
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Navya"
+    URL: "mailto:navya.0919@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/navya-bhat-g"
+
+    - icon: "github"
+      URL: "https://github.com/navyabhatgit"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/nbg1819"
+
+
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    Hello! I'm Navya Bhat, a data explorer driven by a vision to contribute profoundly to forward-thinking organizations. My expertise lies at the intersection of technology and data-driven solutions, aimed at propelling growth, fostering innovation, and ensuring customer success.
+    My journey in the realm of technology has equipped me with an array of technical skills. From proficiently using data analysis tools like Tableau and a suite of Python libraries to mastering programming languages such as R, Python, SQL, and delving into cutting-edge software like PyTorch and Spark.
+    I thrive on leveraging these tools and Machine Learning to unlock insights and drive strategic decisions.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/navya-bhat-g"
+  image:
+    x: "img/who-am-i/my_photo.jpg"
+    _2x: "img/who-am-i/my_photo.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/navya-bhat-g"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://drive.google.com/file/d/1as4DmuDmWaOtGd5y5zJJB83AZW0x-oOj/view?usp=drive_link"
+
+  items:
+    - title: "Director of Product Engineering & Market Development"
+      company: "Bonney Forge"
+      duration: "Jan 2017 - Aug 2018"
+
+    - title: "Manager of Sales Engineering"
+      company: "Bonney Forge"
+      duration: "Mar 2014 - Jan 2017"
+
+    - title: "Manager of Product Engineering"
+      company: "Bonney Forge"
+      duration: "Nov 2011 - Mar 2014"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Texas at Dallas"
+      year: "2022-2023"
+      degree: "Master of Business Analytics"
+      button2:
+        icon: "icon-profile-fill"
+        btnText: "View Transcript"
+        URL: "https://drive.google.com/file/d/1aMKBR1NkzF6lDJbMFhV2olS4GeN-Mf77/view?usp=drive_link"
+      
+
+    - university: "Sir M Visvesvaraya Institute Of Technology"
+      year: "2015-2019"
+      degree: "Bachelor of Engineering - Information Scienece"
+      button2:
+        icon: "icon-profile-fill"
+        btnText: "View Transcript"
+        URL: "https://drive.google.com/file/d/1guOpkcMS5CK6y_IdGlLT918LshsyqFNN/view?usp=drive_link"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
+
+    
+
+# testimonial
+achievements:
+  enable: true
+  title: "achievements"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Matt"
+    
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:your-email@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "--"
+  email:
+    title: "Email"
+    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "--"
+
