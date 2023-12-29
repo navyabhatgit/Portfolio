@@ -184,7 +184,7 @@ client_and_work:
         _2x: "img/clients/Screenshot.png"
       is_even: false
 
-    - title: "Cookbuddy- GPT2 Chatbot"
+    - title: "Plant Pathology Kaggle Challenge"
       description: " Utilized Fastai's vision library and EfficientNet-B0 model to train a deep-learning model accurately classifies plant diseases from images in a provided dataset resized to a maximum of 600 pixels while maintaining aspect ratios. Achieved an impressive F1 score of 0.864 by 
                      fine-tuning the pre-trained model and adapting the classifier for the dataset's classes. "
       button:
