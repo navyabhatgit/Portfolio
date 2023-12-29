@@ -160,7 +160,7 @@ client_and_work:
         _2x: "img/clients/airbnb1.jpg"
       is_even: false
       
-    - title: "Product Price Recommendation"
+    - title: "Product Price Analytics"
       description: "In-depth analysis of Conagra's tablespreads category market share and competition analysis using predictive models. 
                     Designed new KPIs and deciphered the interactions between various product attributes using SAS, Excel and Tableau."
       button:
@@ -200,7 +200,7 @@ client_and_work:
 # testimonial
 achievements:
   enable: true
-  title: "achievements"
+  title: "Achievements"
   items:
   
     - title: "Mentorship Award, MS Business Analytics"
@@ -209,7 +209,7 @@ achievements:
         x: "img/testimonials/mentor.jpg"
         _2x: "img/testimonials/mentor.jpg"
       year: "2022-2023"
-      is_even: true
+      is_even: false
       
     - title: "Certificate of Distinction"
       description: "Recognition awarded upon completion of Master's degree for exceptional academic achievement and distinction"
@@ -217,7 +217,7 @@ achievements:
         x: "img/testimonials/distinction.jpg"
         _2x: "img/testimonials/distinction.jpg"
       year: "2022-2023"
-      is_even: false
+      is_even: true
       
     - title: "GEM Award"
       description: "Award acknowledging demonstrated tenacity and dedication, epitomizing the commitment to go above and beyond."
@@ -225,7 +225,7 @@ achievements:
         x: "img/testimonials/gem.png"
         _2x: "img/testimonials/gem.png"
       year: "Q1 2021"
-      is_even: true
+      is_even: false
 
 # contact
 contact:
