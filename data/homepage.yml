@@ -99,7 +99,7 @@ education:
 
 # Client & Work
 client_and_work:
-  title: "Portfolio"
+  title: "Portfolio Projects"
   enable: true
   
   enable_clients: false
@@ -135,48 +135,53 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Advanced Loan Default Classification"
+      description: "Classification of loan default risks using ML models like Logistic Regression, GLM, GBM, XGBoost and Light GBM, achieving a robust 93% accuracy through meticulous regularization techniques.
+                    Employed cross-validation methods and Optuna for fine-tuning and continuously monitored model performance using diverse metrics.
+                    Leveraged SHAP for model explanability, providing invaluable insights into model behavior."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        btnText: "View Code"
+        URL: "https://github.com/navyabhatgit/Adv-Loan-Risk-Classification"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/clients/loan.jpg"
+        _2x: "img/clients/loan.jpg"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Airbnb Pricing Analysis"
+      description: "Utilized Decision Tree algorithms and clustering methods in an Airbnb pricing project, employing sophisticated visualization, feature engineering, and encoding techniques. Seamlessly 
+                    integrated diverse data visualization strategies to explore patterns and insights, enhancing model understanding and accuracy."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "View Code"
+        URL: "https://github.com/navyabhatgit/AirbnbPricing/tree/main"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/clients/airbnb1.jpg"
+        _2x: "img/clients/airbnb1.jpg"
       is_even: false
       
     - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      description: "In-depth analysis of Conagra's tablespreads category market share and competition analysis using predictive models. 
+                    Designed new KPIs and deciphered the interactions between various product attributes using SAS, Excel and Tableau."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "View Report"
+        URL: "https://github.com/navyabhatgit/tablespreadsCategory-Analysis"
       image:
         x: "img/works/app_cannondale_price_prediction.jpg"
         _2x: "img/works/app_cannondale_price_prediction.jpg"
       is_even: true
       
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Cookbuddy- GPT2 Chatbot"
+      description: " Leveraging PyTorch, PyTorch Lightning, and the powerful GPT-2 transformer,
+                     crafted a chatbot that delighted users with personalized recipe guidance for their cravings. "
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "View Code"
+        URL: "https://github.com/navyabhatgit/CookBuddy"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/clients/Screenshot.png"
+        _2x: "img/clients/Screenshot.png"
       is_even: false
 
     
