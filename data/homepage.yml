@@ -5,8 +5,8 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Navya Bhat."
-  subtitle: "Data Scientist"
-  description: ""
+  subtitle: "Welcome to my Portfolio"
+  description: "Data Science and Analytics | Business Intelligence | Machine Learning Engineer | Data Engineer"
   
   button:
     icon: "icon-mail-fill"
@@ -48,7 +48,9 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "About 3 years of experience working in a Financial ecosystem at Temenos.I also designed Restful APIs to serve the data to the front-end applications. My role involved architecting Restful APIs tailored to seamlessly serve crucial data to front-end applications. This design not only facilitated 
+                efficient data transfer and application experience but also empowered user interfaces with real-time, mission-critical information, fostering agile and data driven strategies. I also delved into the analytics of IoT devices through an internship. This immersive experience broadened my expertise, allowing me to extract 
+                valuable insights from complex IoT data streams, enabling informed decision-making based on real-time device analytics. "
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -59,17 +61,17 @@ experience:
     URL: "https://drive.google.com/file/d/1as4DmuDmWaOtGd5y5zJJB83AZW0x-oOj/view?usp=drive_link"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Senior Software Engineer"
+      company: "Temenos"
+      duration: "Jul 2021 - Jun 2022"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "Software Engineer"
+      company: "Temenos"
+      duration: "Jul 2019 - Jun 2021"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Technical Analyst Intern"
+      company: "iTAS Innovations"
+      duration: "Dec 2018 - Mar 2019"
 
 # education
 education:
@@ -154,6 +156,28 @@ client_and_work:
         x: "img/works/app_cannondale_price_prediction.jpg"
         _2x: "img/works/app_cannondale_price_prediction.jpg"
       is_even: false
+      
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: true
+      
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
 
     
 
@@ -163,50 +187,46 @@ achievements:
   title: "achievements"
   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - title: "Mentorship Award, MS Business Analytics"
+      description: "Recognition for exceptional mentorship, emphasizing dedication and guidance to uplift fellow graduate students."
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
-        
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+        x: "img/testimonials/mentor.jpg"
+        _2x: "img/testimonials/mentor.jpg"
+      year: "2022-2023"
+      is_even: true
+      
+    - title: "Certificate of Distinction"
+      description: "Recognition awarded upon completion of Master's degree for exceptional academic achievement and distinction"
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
-
-    
-
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+        x: "img/testimonials/distinction.jpg"
+        _2x: "img/testimonials/distinction.jpg"
+      year: "2022-2023"
+      is_even: false
+      
+    - title: "GEM Award"
+      description: "Award acknowledging demonstrated tenacity and dedication, epitomizing the commitment to go above and beyond."
       image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
+        x: "img/testimonials/gem.png"
+        _2x: "img/testimonials/gem.png"
+      year: "Q1 2021"
+      is_even: true
 
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
-    
-  image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
-    
+  title: "Contact Navya"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnAction: 'mailto:navya.0919@email@gmail.com'
     
   phone:
     title: "Phone Number"
-    number: "--"
+    number: "(425)543-5737"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+    email: '<a href="mailto:navya.0919@gmail.com">navya.0919@gmail.com</a>'
   address:
     title: "Address"
-    address: "--"
+    address: "Bellevue, WA"
 
