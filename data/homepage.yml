@@ -184,6 +184,17 @@ client_and_work:
         _2x: "img/clients/Screenshot.png"
       is_even: false
 
+    - title: "Cookbuddy- GPT2 Chatbot"
+      description: " Utilized Fastai's vision library and EfficientNet-B0 model to train a deep-learning model accurately classifies plant diseases from images in a provided dataset resized to a maximum of 600 pixels while maintaining aspect ratios. Achieved an impressive F1 score of 0.864 by 
+                     fine-tuning the pre-trained model and adapting the classifier for the dataset's classes. "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Code"
+        URL: "https://github.com/navyabhatgit/Inclass_PlantPathologyChallenge"
+      image:
+        x: "img/clients/pathology.jpg"
+        _2x: "img/clients/pathology.jpg"
+      is_even: true
     
 
 # testimonial
