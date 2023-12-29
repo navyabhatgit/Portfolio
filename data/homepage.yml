@@ -81,7 +81,7 @@ education:
     - university: "University of Texas at Dallas"
       year: "2022-2023"
       degree: "Master of Business Analytics"
-      button2:
+      button:
         icon: "icon-profile-fill"
         btnText: "View Transcript"
         URL: "https://drive.google.com/file/d/1aMKBR1NkzF6lDJbMFhV2olS4GeN-Mf77/view?usp=drive_link"
@@ -214,8 +214,8 @@ achievements:
     - title: "Certificate of Distinction"
       description: "Recognition awarded upon completion of Master's degree for exceptional academic achievement and distinction"
       image:
-        x: "img/testimonials/distinction.jpg"
-        _2x: "img/testimonials/distinction.jpg"
+        x: "img/testimonials/distinction1.jpg"
+        _2x: "img/testimonials/distinction1.jpg"
       year: "2022-2023"
       is_even: true
       
