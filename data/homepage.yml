@@ -57,8 +57,8 @@ experience:
     URL: "https://www.linkedin.com/in/navya-bhat-g"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/1O4UaUNrkbZeyhXlIxTH9s1QBu4hogIxv/view?usp=drive_link"
+    btnText: "My Resume"
+    URL: "https://drive.google.com/file/d/19W-ADIo5INMj09uNlWKRnF3hXl4A_VFz/view?usp=drive_link"
 
   items:
     - title: "Senior Software Engineer"
