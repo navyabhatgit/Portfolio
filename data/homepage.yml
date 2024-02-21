@@ -58,7 +58,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "My Resume"
-    URL: "https://drive.google.com/file/d/19W-ADIo5INMj09uNlWKRnF3hXl4A_VFz/view?usp=drive_link"
+    URL: "https://drive.google.com/file/d/19W-ADIo5INMj09uNlWKRnF3hXl4A_VFz/view?usp=sharing"
 
   items:
     - title: "Senior Software Engineer"
