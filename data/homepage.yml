@@ -234,7 +234,7 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:navyab2497@email@gmail.com'
+    btnAction: 'mailto:navyab2497@gmail.com'
     
   phone:
     title: "Phone Number"
