@@ -11,7 +11,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Navya"
-    URL: "mailto:navyab2497@gmail.com"
+    URL: "mailto:navya.0919@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
@@ -234,14 +234,14 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:navyab2497@gmail.com'
+    btnAction: 'mailto:navya.0919@gmail.com'
     
   phone:
     title: "Phone Number"
     number: "(425)543-5737"
   email:
     title: "Email"
-    email: '<a href="mailto:navyab2497@gmail.com">navyab2497@gmail.com</a>'
+    email: '<a href="mailto:navya.0919@gmail.com">navya.0919@gmail.com</a>'
   address:
     title: "Address"
     address: "Bellevue, WA"
