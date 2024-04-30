@@ -161,7 +161,7 @@ client_and_work:
       is_even: false
       
     - title: "Product Price Analytics"
-      description: "In-depth analysis of Conagra's tablespreads category market share and competition analysis using predictive models. 
+      description: "In-depth analysis of market share and sales data of Conagra's tablespreads brands using predictive models. 
                     Designed new KPIs and deciphered the interactions between various product attributes using SAS, Excel and Tableau."
       button:
         icon: "icon-arrow-right"
